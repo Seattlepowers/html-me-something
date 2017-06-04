@@ -1,0 +1,41 @@
+/*===================================================================
+Image
+=====================================================================*/
+.protagonist {
+  color: red;
+}
+
+.wiseoldman {
+ color: blue; 
+}
+
+.act1 img {
+  border:1px green solid;
+  width: 250px;
+  height: 250px;
+  border-radius: 4px;
+}
+
+.act2 img {
+  border:1px green solid;
+  width: 250px;
+  height: 250px;
+  border-radius: 4px;
+}
+
+.act3 img {
+  border:1px green solid;
+  width: 250px;
+  height: 250px;
+  border-radius: 4px;
+}
+
+/*=============================================================================
+
+================================================================================*/
+
+
+h1 {
+font-size: 34px;
+font-family:Sansita;
+}
