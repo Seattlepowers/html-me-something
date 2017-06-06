@@ -13,3 +13,7 @@ Image
   color: green;
   font-size: 23;
 }
+
+main {
+  background-image: url("./images/Paper-Grunge-Background-7.jpg");
+}
